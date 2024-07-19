@@ -8,7 +8,7 @@
 
 
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Database Systems CS203" during my 4th Semester at [National University of Computer and Emerging Sciences](http://nu.edu.pk/). Its based on the 3 Tier Architecture.
+A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Database Systems CS203" during my 2nd Semester at [MIT World Peace University). Its based on the 3 Tier Architecture.
 
 ## Technologies Used:
 
@@ -23,20 +23,6 @@ For Database: SQL
 * [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
 * [Microsoft SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
 
-## Interface
-Some screenshots of the pages.
-
-### Signup Page 
-<img src="../master/images/main1.png"/>
-
-### Take Appointment
-<img src="../master/images/appointment1.png"/> 
-
-### Current Appointments
-<img src="../master/images/current1.png"/> 
-
-### Search Staff
-<img src="../master/images/search.png"/> 
 
 
 
@@ -120,8 +106,6 @@ Authentication: Windows Authentication
 </p>
 
 
-## 🤝 Consulting / Coaching
-Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>onkar.sep.9@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
 
 ## 👨‍💻 Technical Skills & Expertise
 
@@ -133,44 +117,14 @@ Stuck with some problem? Need help in solution development, guidance, training o
 
 
 
-## ❤️ Support / Donations
-If you or your company use any of my projects, like what I’m doing or have benefited from my projects in any way then kindly consider backing my efforts.
-
-For donations, you can follow these simple steps:
-
-<b>1)</b> Free signup at <b>[TransferWise]( )</b> using this link: </li>. (Signing up through this link will save you from any transcation fee on the donation)
-
-<b>2)</b> Select the amount e.g (15$) and choose the receiving/recipient's currency to be PKR. It supports multiple payment options (credit card, debit card, wire transfer etc)
-
-<b>3)</b> Then it will show my info as the recipient, select it. If my name isn't shown, then type my email  in recipients.
-
-<b>4)</b> Choose the reason for transfer to the one that suits you the most (in this case it could be 'General expenses') and in the reference section, you can mention 'Support'
- 
-If you face any issue in sending donation then feel free to get in touch with me at  
-
-Thank you for your contribution!
-
-
 
 ## Contact
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link]https://www.linkedin.com/in/onkar-murkute-bb6914187/
 
 
 
 ---
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
-## Contributions Welcome
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
-
-## Issues
-
-
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
 Copyright (c) 2018-present, onkarmurkute                             
